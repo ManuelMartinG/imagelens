@@ -2,10 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+processor/resources/
 # C extensions
 *.so
-
+.idea
+.vscode
+imagelens-py36
 # Distribution / packaging
 .Python
 build/
